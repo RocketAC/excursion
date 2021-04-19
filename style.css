@@ -19,3 +19,8 @@ a {
 .link {
     text-align: center;
 }
+
+.video {
+    display: block;
+    margin: auto;
+}
